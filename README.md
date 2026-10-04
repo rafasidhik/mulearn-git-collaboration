@@ -14,3 +14,14 @@ This repository was created for the μLearn Foundation LF 2026 Git Collaboration
 ## Workflow
 
 main → feature/git-workflow → Pull Request → main
+
+## Git Commands Practiced
+
+```bash
+git clone
+git switch
+git status
+git add
+git commit
+git push
+git pull
